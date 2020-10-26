@@ -1,0 +1,100 @@
+jgi|Melbi2|648144|fgenesh1_pm.183_#_1   GO      648144  2990    phosphogluconate dehydrogenase (decarboxylating) activity       molecular_function      GO:0004616
+jgi|Melbi2|648144|fgenesh1_pm.183_#_1   GO      648144  4263    pentose-phosphate shunt biological_process      GO:0006098
+jgi|Melbi2|648146|fgenesh1_pm.183_#_3   GO      648146  3721    iron ion binding        molecular_function      GO:0005506
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  247     C-3 sterol dehydrogenase (C-4 sterol decarboxylase) activity    molecular_function   GO:0000252
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  248     3-keto sterol reductase activity        molecular_function      GO:0000253
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  2477    aldo-keto reductase activity    molecular_function      GO:0004033
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  2842    isocitrate dehydrogenase activity       molecular_function      GO:0004448
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  2886    mevaldate reductase activity    molecular_function      GO:0004495
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  6491    gluconate dehydrogenase activity        molecular_function      GO:0008875
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  10761   epoxide dehydrogenase activity  molecular_function      GO:0018451
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  10762   5-exo-hydroxycamphor dehydrogenase activity     molecular_function      GO:0018452
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  10763   2-hydroxytetrahydrofuran dehydrogenase activity molecular_function      GO:0018453
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  15277   phenylcoumaran benzylic ether reductase activity        molecular_function      GO:0032442
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  16590   steroid dehydrogenase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor    molecular_function      GO:0033764
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  19178   (R)-2-hydroxyisocaproate dehydrogenase activity molecular_function      GO:0043713
+jgi|Melbi2|603197|estExt_Genewise1Plus.C_183_t10004     GO      603197  22621   3-ketoglucose-reductase activity        molecular_function      GO:0048258
+jgi|Melbi2|621482|fgenesh1_kg.183_#_3_#_Locus4380v1rpkm36.03    GO      621482  6419    beta-lactamase activity molecular_function      GO:0008800
+jgi|Melbi2|621482|fgenesh1_kg.183_#_3_#_Locus4380v1rpkm36.03    GO      621482  13507   beta-lactam antibiotic catabolic process        biological_process      GO:0030655
+jgi|Melbi2|637527|fgenesh1_pg.183_#_10  GO      637527  4514    transcription from RNA polymerase II promoter   biological_process      GO:0006366
+jgi|Melbi2|547930|e_gw1.183.823.1       GO      547930  2946    chitinase activity      molecular_function      GO:0004568
+jgi|Melbi2|547930|e_gw1.183.823.1       GO      547930  6462    endochitinase activity  molecular_function      GO:0008843
+jgi|Melbi2|603205|estExt_Genewise1Plus.C_183_t10013     GO      603205  281     magnesium ion binding   molecular_function      GO:0000287
+jgi|Melbi2|603205|estExt_Genewise1Plus.C_183_t10013     GO      603205  23919   FAD binding     molecular_function      GO:0050660
+jgi|Melbi2|621489|fgenesh1_kg.183_#_10_#_Locus3477v1rpkm47.53   GO      621489  2536    catalase activity       molecular_function      GO:0004096
+jgi|Melbi2|621489|fgenesh1_kg.183_#_10_#_Locus3477v1rpkm47.53   GO      621489  3721    iron ion binding        molecular_function      GO:0005506
+jgi|Melbi2|657243|estExt_fgenesh1_pm.C_1830009  GO      657243  2890    flavin-containing monooxygenase activity        molecular_function      GO:0004499
+jgi|Melbi2|657243|estExt_fgenesh1_pm.C_1830009  GO      657243  23919   FAD binding     molecular_function      GO:0050660
+jgi|Melbi2|657243|estExt_fgenesh1_pm.C_1830009  GO      657243  23920   NADP binding    molecular_function      GO:0050661
+jgi|Melbi2|657243|estExt_fgenesh1_pm.C_1830009  GO      657243  9410    carotenoid biosynthetic process biological_process      GO:0016117
+jgi|Melbi2|709552|MIX20501_5303_76      GO      709552  4504    regulation of transcription, DNA-dependent      biological_process      GO:0006355
+jgi|Melbi2|709552|MIX20501_5303_76      GO      709552  5939    zinc ion binding        molecular_function      GO:0008270
+jgi|Melbi2|648154|fgenesh1_pm.183_#_11  GO      648154  4639    proteolysis     biological_process      GO:0006508
+jgi|Melbi2|648154|fgenesh1_pm.183_#_11  GO      648154  5908    serine-type peptidase activity  molecular_function      GO:0008236
+jgi|Melbi2|648154|fgenesh1_pm.183_#_11  GO      648154  5906    cysteine-type peptidase activity        molecular_function      GO:0008234
+jgi|Melbi2|603222|estExt_Genewise1Plus.C_183_t10040     GO      603222  4639    proteolysis     biological_process      GO:0006508
+jgi|Melbi2|603222|estExt_Genewise1Plus.C_183_t10040     GO      603222  5907    metalloexopeptidase activity    molecular_function      GO:0008235
+jgi|Melbi2|621500|fgenesh1_kg.183_#_21_#_Locus10898v2rpkm1.35   GO      621500  15998   glycolipid 6-alpha-mannosyltransferase activity molecular_function      GO:0033164
+jgi|Melbi2|669938|estExt_fgenesh1_pg.C_183_t10029       GO      669938  4504    regulation of transcription, DNA-dependent      biological_process      GO:0006355
+jgi|Melbi2|669938|estExt_fgenesh1_pg.C_183_t10029       GO      669938  5939    zinc ion binding        molecular_function      GO:0008270
+jgi|Melbi2|621506|fgenesh1_kg.183_#_27_#_Locus10048v1rpkm4.47   GO      621506  23919   FAD binding     molecular_function      GO:0050660
+jgi|Melbi2|621506|fgenesh1_kg.183_#_27_#_Locus10048v1rpkm4.47   GO      621506  9838    enoyl-[acyl-carrier-protein] reductase activity molecular_function      GO:0016631
+jgi|Melbi2|621506|fgenesh1_kg.183_#_27_#_Locus10048v1rpkm4.47   GO      621506  10807   2,3-dihydroxy-2,3-dihydro-phenylpropionate dehydrogenase activity       molecular_function      GO:0018498
+jgi|Melbi2|621506|fgenesh1_kg.183_#_27_#_Locus10048v1rpkm4.47   GO      621506  10808   cis-2,3-dihydrodiol DDT dehydrogenase activity  molecular_function      GO:0018499
+jgi|Melbi2|621506|fgenesh1_kg.183_#_27_#_Locus10048v1rpkm4.47   GO      621506  10809   trans-9R,10R-dihydrodiolphenanthrene dehydrogenase activity     molecular_function      GO:0018500
+jgi|Melbi2|621506|fgenesh1_kg.183_#_27_#_Locus10048v1rpkm4.47   GO      621506  10810   cis-chlorobenzene dihydrodiol dehydrogenase activity    molecular_function   GO:0018501
+jgi|Melbi2|621506|fgenesh1_kg.183_#_27_#_Locus10048v1rpkm4.47   GO      621506  10811   2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase activity molecular_function      GO:0018502
+jgi|Melbi2|621506|fgenesh1_kg.183_#_27_#_Locus10048v1rpkm4.47   GO      621506  10812   trans-1,2-dihydrodiolphenanthrene dehydrogenase activity        molecular_function      GO:0018503
+jgi|Melbi2|621506|fgenesh1_kg.183_#_27_#_Locus10048v1rpkm4.47   GO      621506  19250   cinnamate reductase activity    molecular_function      GO:0043786
+jgi|Melbi2|547106|e_gw1.183.1329.1      GO      547106  6988    folic acid and derivative biosynthetic process  biological_process      GO:0009396
+jgi|Melbi2|547106|e_gw1.183.1329.1      GO      547106  2314    2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase activity      molecular_function   GO:0003848
+jgi|Melbi2|709620|MIX20569_17_75        GO      709620  23919   FAD binding     molecular_function      GO:0050660
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  3736    ATP binding     molecular_function      GO:0005524
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  2792    helicase activity       molecular_function      GO:0004386
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  2450    ATP-dependent DNA helicase activity     molecular_function      GO:0004003
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  2451    ATP-dependent RNA helicase activity     molecular_function      GO:0004004
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  5716    ATP-dependent helicase activity molecular_function      GO:0008026
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  5778    DNA-dependent ATPase activity   molecular_function      GO:0008094
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  5860    RNA-dependent ATPase activity   molecular_function      GO:0008186
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  8800    protein-transmembrane transporting ATPase activity      molecular_function      GO:0015462
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  10082   ATPase activity molecular_function      GO:0016887
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  10273   single-stranded DNA-dependent ATP-dependent DNA helicase activity       molecular_function      GO:0017116
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  18132   ATPase activity, coupled        molecular_function      GO:0042623
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  18133   ATPase activity, uncoupled      molecular_function      GO:0042624
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  18134   ATPase activity, coupled to transmembrane movement of ions      molecular_function      GO:0042625
+jgi|Melbi2|546687|e_gw1.183.824.1       GO      546687  18135   ATPase activity, coupled to transmembrane movement of substances        molecular_function      GO:0042626
+jgi|Melbi2|621530|fgenesh1_kg.183_#_51_#_Locus1963v1rpkm82.14   GO      621530  5939    zinc ion binding        molecular_function      GO:0008270
+jgi|Melbi2|637582|fgenesh1_pg.183_#_65  GO      637582  3043    protein kinase activity molecular_function      GO:0004672
+jgi|Melbi2|637582|fgenesh1_pg.183_#_65  GO      637582  3736    ATP binding     molecular_function      GO:0005524
+jgi|Melbi2|637582|fgenesh1_pg.183_#_65  GO      637582  4602    protein amino acid phosphorylation      biological_process      GO:0006468
+jgi|Melbi2|637583|fgenesh1_pg.183_#_66  GO      637583  2861    long-chain-fatty-acid-CoA ligase activity       molecular_function      GO:0004467
+jgi|Melbi2|637583|fgenesh1_pg.183_#_66  GO      637583  8961    fatty-acid ligase activity      molecular_function      GO:0015645
+jgi|Melbi2|637583|fgenesh1_pg.183_#_66  GO      637583  14792   short-chain-fatty-acid-CoA ligase activity      molecular_function      GO:0031955
+jgi|Melbi2|637583|fgenesh1_pg.183_#_66  GO      637583  14793   medium-chain-fatty-acid-CoA ligase activity     molecular_function      GO:0031956
+jgi|Melbi2|637583|fgenesh1_pg.183_#_66  GO      637583  14794   very-long-chain-fatty-acid-CoA ligase activity  molecular_function      GO:0031957
+jgi|Melbi2|648181|fgenesh1_pm.183_#_38  GO      648181  5939    zinc ion binding        molecular_function      GO:0008270
+jgi|Melbi2|603305|estExt_Genewise1Plus.C_183_t10172     GO      603305  5939    zinc ion binding        molecular_function      GO:0008270
+jgi|Melbi2|603305|estExt_Genewise1Plus.C_183_t10172     GO      603305  10269   nucleoside-triphosphatase activity      molecular_function      GO:0017111
+jgi|Melbi2|547318|e_gw1.183.1398.1      GO      547318  3721    iron ion binding        molecular_function      GO:0005506
+jgi|Melbi2|637590|fgenesh1_pg.183_#_73  GO      637590  6151    mannan endo-1,6-alpha-mannosidase activity      molecular_function      GO:0008496
+jgi|Melbi2|621561|fgenesh1_kg.183_#_82_#_Locus6326v1rpkm18.21   GO      621561  3736    ATP binding     molecular_function      GO:0005524
+jgi|Melbi2|621561|fgenesh1_kg.183_#_82_#_Locus6326v1rpkm18.21   GO      621561  4420    DNA metabolic process   biological_process      GO:0006259
+jgi|Melbi2|621561|fgenesh1_kg.183_#_82_#_Locus6326v1rpkm18.21   GO      621561  5778    DNA-dependent ATPase activity   molecular_function      GO:0008094
+jgi|Melbi2|621561|fgenesh1_kg.183_#_82_#_Locus6326v1rpkm18.21   GO      621561  10269   nucleoside-triphosphatase activity      molecular_function      GO:0017111
+jgi|Melbi2|637594|fgenesh1_pg.183_#_77  GO      637594  4504    regulation of transcription, DNA-dependent      biological_process      GO:0006355
+jgi|Melbi2|637594|fgenesh1_pg.183_#_77  GO      637594  5939    zinc ion binding        molecular_function      GO:0008270
+jgi|Melbi2|648188|fgenesh1_pm.183_#_45  GO      648188  4994    intracellular protein transport biological_process      GO:0006886
+jgi|Melbi2|547653|e_gw1.183.683.1       GO      547653  9367    mRNA metabolic process  biological_process      GO:0016071
+jgi|Melbi2|547428|e_gw1.183.497.1       GO      547428  3736    ATP binding     molecular_function      GO:0005524
+jgi|Melbi2|547428|e_gw1.183.497.1       GO      547428  6988    folic acid and derivative biosynthetic process  biological_process      GO:0009396
+jgi|Melbi2|547428|e_gw1.183.497.1       GO      547428  13161   5-formyltetrahydrofolate cyclo-ligase activity  molecular_function      GO:0030272
+jgi|Melbi2|637598|fgenesh1_pg.183_#_81  GO      637598  2441    acid phosphatase activity       molecular_function      GO:0003993
+jgi|Melbi2|621568|fgenesh1_kg.183_#_89_#_Locus2578v1rpkm64.36   GO      621568  2843    isocitrate dehydrogenase (NAD+) activity        molecular_function      GO:0004449
+jgi|Melbi2|621568|fgenesh1_kg.183_#_89_#_Locus2578v1rpkm64.36   GO      621568  4264    tricarboxylic acid cycle        biological_process      GO:0006099
+jgi|Melbi2|621568|fgenesh1_kg.183_#_89_#_Locus2578v1rpkm64.36   GO      621568  2842    isocitrate dehydrogenase activity       molecular_function      GO:0004448
+jgi|Melbi2|657279|estExt_fgenesh1_pm.C_1830054  GO      657279  3060    cyclin-dependent protein kinase activity        molecular_function      GO:0004693
+jgi|Melbi2|603329|estExt_Genewise1Plus.C_183_t10208     GO      603329  5939    zinc ion binding        molecular_function      GO:0008270
+jgi|Melbi2|603329|estExt_Genewise1Plus.C_183_t10208     GO      603329  24685   regulation of ubiquitin-protein ligase activity biological_process      GO:0051438
+jgi|Melbi2|603329|estExt_Genewise1Plus.C_183_t10208     GO      603329  24690   positive regulation of ubiquitin-protein ligase activity        biological_process   GO:0051443
+jgi|Melbi2|603329|estExt_Genewise1Plus.C_183_t10208     GO      603329  24691   negative regulation of ubiquitin-protein ligase activity        biological_process   GO:0051444
+jgi|Melbi2|657280|estExt_fgenesh1_pm.C_1830055  GO      657280  21336   transition metal ion binding    molecular_function      GO:0046914
