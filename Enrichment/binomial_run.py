@@ -23,7 +23,7 @@ def main(arg1, arg2):
          continue
       x_total = values.split("\t")[colint_xtotal]
       y_total = values.split("\t")[colint_ytotal]
-      cmd = " ".join(("Rscript", "new_binomial.R", str(matching_file), str(portal), str(colint_xobs), str(colint_yobs), str(x_total), str(y_total)))
+      cmd = " ".join(("Rscript", "binomial.R", str(matching_file), str(portal), str(colint_xobs), str(colint_yobs), str(x_total), str(y_total)))
       for line in run_cmd(cmd).split("\n"):
          if not len(line) == 0:
             print("\t".join(line.split()))
