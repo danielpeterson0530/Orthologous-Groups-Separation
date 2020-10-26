@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Python Script to run binomial.R 
+# Python Script to run binomial.R for files in a directory
 #
 # **Column variables will need to be set below to tell program which ones to analyze
 
