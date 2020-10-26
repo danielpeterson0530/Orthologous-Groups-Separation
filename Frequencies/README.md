@@ -3,7 +3,7 @@ get_orthogroup_annotation_freq.py uses two files as input:
    INPUT_functional_annotation_GO.tsv = with concatentated annotation files for all species
 
 and will output:
-   OUTPUT.TSV = with occurances by orthogroup in columns (portal term  total core group-specific(mixed)  acc)
+   OUTPUT.TSV = with occurances by orthogroup in columns (portal term  total core group-specific  acc)
    
 Enrichment analysis required that the OUTPUT.TSV file be broken up by portal using large_file_split.py
  
